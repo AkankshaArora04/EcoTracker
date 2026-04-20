@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EcoTracker>
+    <UserMeta>
+        <Name>Akanksha Arora</Name>
+        <JoinDate>Dec 2025</JoinDate>
+    </UserMeta>
+    <CurrentStats>
+        <TotalSaved>24.8</TotalSaved>
+        <GreenPoints>1250</GreenPoints>
+        <Streak>12</Streak>
+    </CurrentStats>
+    <WeeklyAnalytics>
+        <Data day="Mon" value="12" />
+        <Data day="Tue" value="19" />
+        <Data day="Wed" value="3" />
+        <Data day="Thu" value="5" />
+        <Data day="Fri" value="2" />
+        <Data day="Sat" value="13" />
+        <Data day="Sun" value="10" />
+    </WeeklyAnalytics>
+</EcoTracker>

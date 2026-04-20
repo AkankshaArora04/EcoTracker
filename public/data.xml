@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EcoTrackData>
+    <User>Akanksha Arora</User>
+    <Stats>
+        <TotalSaved>24.8</TotalSaved>
+        <Points>1250</Points>
+        <Streak>12</Streak>
+    </Stats>
+    <DailyLogs>
+        <Log day="Mon" value="12" />
+        <Log day="Tue" value="19" />
+        <Log day="Wed" value="3" />
+    </DailyLogs>
+</EcoTrackData>
