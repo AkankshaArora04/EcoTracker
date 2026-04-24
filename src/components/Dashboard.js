@@ -3,7 +3,7 @@ import {
   Chart as ChartJS, CategoryScale, LinearScale, BarElement, 
   Title, Tooltip, Legend, ArcElement, PointElement, LineElement 
 } from 'chart.js';
-
+import { Bar, Doughnut, Line } from 'react-chartjs-2';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend, ArcElement, PointElement, LineElement);
 
@@ -68,7 +68,7 @@ const Dashboard = () => {
       <div style={{ flex: 1, padding: '40px', overflowY: 'auto' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '40px' }}>
           <div>
-            <h1 style={{ fontSize: '32px', margin: 0 }}>Good Morning, Akanksha!</h1>
+            <h1 style={{ fontSize: '32px', margin: 0 }}>Good Morning, Gopal!</h1>
             <p style={{ color: '#888', marginTop: '5px' }}>Your green impact is 12% higher this week.</p>
           </div>
           <button onClick={() => setShowModal(true)} style={{ backgroundColor: '#1a2e1a', color: 'white', padding: '14px 28px', borderRadius: '16px', border: 'none', cursor: 'pointer', fontWeight: 'bold' }}>+ Log Activity</button>
